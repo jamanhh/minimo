@@ -141,7 +141,7 @@ header{
   padding-right: 45px;
 }
 .s_form inpit:focus{
-  outline: 0;
+  outline: none;
 }
 .s_form button{
   position: absolute;
@@ -151,7 +151,7 @@ header{
   right: 0;
 }
 .s_form button:focus{
-  outline: 0;
+  outline: none;
 }
 .s_form button img{}
 /* news end */
