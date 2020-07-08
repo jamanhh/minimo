@@ -140,7 +140,7 @@ header{
   padding-left: 5px;
   padding-right: 45px;
 }
-.s_form inpit:focus{
+.s_form input:focus{
   outline: none;
 }
 .s_form button{
